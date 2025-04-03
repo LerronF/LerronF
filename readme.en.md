@@ -1,16 +1,67 @@
-🔄 This README is also available in [Portuguese](./readme.md)
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:000000&height=160&section=header&text=Lerron%20Felipe&fontAlign=center&fontSize=45&fontColor=ffffff" alt="Banner" />
+</p>
 
 ## 👋 Hello! I'm Lerron Felipe
 
 💻 Fullstack C# developer focused on desktop, web, and distributed architecture applications.  
-🎯 Team leader passionate about scalable systems and service integration.  
-🎙️ Host of the **Impacto Missionário** radio show | ✝️ Active Christian | 🥋 Founder of **AMC - Atletas Missionários de Cristo**
+🎯 Team leader passionate about scalable solutions and system integration.  
+🎙️ Host of **Impacto Missionário** | ✝️ Active Christian | 🥋 Founder of **AMC - Atletas Missionários de Cristo**
+
+🔄 This README is also available in <a href="./readme.md" target="_blank"><img src="https://img.shields.io/badge/Versão%20em%20Português-00C853?style=for-the-badge&logo=markdown&logoColor=white" /></a>
 
 ---
 
-## 🚀 Technologies I work with
+## 🎓 Academic Background
+
+- 🎓 **Bachelor's degree in Computer Science**
+- 🎓 **Postgraduate in IT Management and Governance**
+- 📚 **Law Student** – expected graduation: 2026
+
+---
+
+## 📜 Certifications and Courses
+
+<p>
+  <img src="https://img.shields.io/badge/Udemy-Design%20Patterns%20with%20C%23-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Docker%20for%20.NET%20Developers-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alura-GitLab%20and%20Docker%20CI%2FCD-0080FF?style=flat-square&logo=alura&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Python%20for%20Data%20Science%20and%20ML-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Selenium%20Java%20Automation-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Node.js%20Developer%20Track-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Entity%20Framework%20Core%20Essentials-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-RabbitMQ%20with%20.NET%208-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-REST%20APIs%20with%20.NET%20and%20JWT-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/DIO-Building%20APIs%20with%20.NET%20Core-FF4088?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white" />
+</p>
+
+---
+
+## 📌 Highlights
+
+- 🔐 [SSO Gateway with Ocelot + .NET 8](https://github.com/LerronF/amz-sso-api) – Distributed authentication and gateway integration.
+- 🏭 SFM replication system – Synchronizes databases with RabbitMQ validation and parallel workers.
+
+---
+
+## 💡 About Me
+
+- I study Law at night while coding during the day
+- I'm a radio show host
+- I founded @atletasmissionariosdecristo combining faith and sports
+
+---
+
+## 🎯 Goals to Accomplish
+
+- ✅ Complete all active projects in 2025
+- 📱 Launch the first mobile app based on AMC
+- 🎓 Finish Law school and start the OAB process
+- ✝️ Launch a platform for churches and ministries
+
+---
+
+## 🚀 Technologies I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -33,7 +84,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LerronF&show_icons=true&theme=dracula&count_private=true&cache_seconds=60" />
@@ -50,9 +101,9 @@
 
 ---
 
-## 🌐 Activity Graph
+## 🌐 Contribution Activity Graph
 
-[![Lerron's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LerronF&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LerronF&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -62,7 +113,13 @@
 
 ---
 
-## 🔗 Connect with me
+## 👀 Visitors Counter
+
+![Visitors](https://komarev.com/ghpvc/?username=LerronF&color=blue&style=flat-square)
+
+---
+
+## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/lerronfelipe)
 - 🎙️ [@lerron on Instagram](https://instagram.com/lerron)
@@ -72,6 +129,6 @@
 
 <p align="center">
   <em>“The world needs developers who know code...<br>
-  and know the Truth.” ✝️</em>
+and know the Truth.” ✝️</em>
 </p>
 
