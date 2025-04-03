@@ -8,7 +8,7 @@
 🎯 Líder de equipe, apaixonado por soluções escaláveis e integração de serviços.  
 🎙️ Apresentador do **Impacto Missionário** | ✝️ Cristão ativo | 🥋 Fundador da **AMC - Atletas Missionários de Cristo**
 
-🔄 Este README também está disponível em <a href="./README.en.md" target="_blank"><img src="https://img.shields.io/badge/Versão%20em%20Inglês-007ACC?style=for-the-badge&logo=markdown&logoColor=white" /></a>
+🔄 Este README também está disponível em <a href="./readme.en.md" target="_blank"><img src="https://img.shields.io/badge/Versão%20em%20Inglês-007ACC?style=for-the-badge&logo=markdown&logoColor=white" /></a>
 
 ---
 
