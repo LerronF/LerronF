@@ -1,4 +1,4 @@
-🔄 This README is also available in [Portuguese](./README.md)
+🔄 This README is also available in [Portuguese](./readme.md)
 
 ---
 
