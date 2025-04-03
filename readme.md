@@ -1,3 +1,6 @@
+🔄 This README is also available in [English](./README.en.md)
+
+
 ## 👋 Olá! Eu sou o Lerron Felipe
 
 💻 Desenvolvedor C# fullstack com foco em aplicações desktop, web e arquitetura distribuída.  
