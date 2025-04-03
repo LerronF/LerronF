@@ -29,21 +29,23 @@
   <img src="https://img.shields.io/badge/Udemy-Python%20p%2F%20Data%20Science%20e%20ML-EC5252?style=flat-square&logo=udemy&logoColor=white" />
   <img src="https://img.shields.io/badge/Udemy-Selenium%20Java%20Automation-EC5252?style=flat-square&logo=udemy&logoColor=white" />
   <img src="https://img.shields.io/badge/Udemy-Formação%20Node.js-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Entity%20Framework%20Core%20Essentials-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-RabbitMQ%20com%20.NET%208-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-APIs%20REST%20com%20.NET%20e%20JWT-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/DIO-Criando%20APIs%20com%20.NET%20Core-FF4088?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white" />
+</p>
+  <img src="https://img.shields.io/badge/Udemy-Design%20Patterns%20com%20C%23-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Docker%20essencial%20para%20.NET-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alura-GitLab%20e%20Docker%20CI%2FCD-0080FF?style=flat-square&logo=alura&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Python%20p%2F%20Data%20Science%20e%20ML-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Selenium%20Java%20Automation-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Formação%20Node.js-EC5252?style=flat-square&logo=udemy&logoColor=white" />
 </p>
 
 ## 📌 Destaques
 
 - 🔐 [SSO Gateway com Ocelot + .NET 8](https://github.com/LerronF/amz-sso-api) – Autenticação distribuída e integração via gateway.
 - 🏭 Sistema de replicação SFM – Copia dados entre bancos com validação via RabbitMQ e workers paralelos.
-
----
-
-## 🧠 Atualmente estudando
-
-- Microserviços com gRPC e RabbitMQ
-- .NET MAUI para apps móveis
-- Docker + Kubernetes para produção
-- Testes automatizados com xUnit e Moq
 
 ---
 
@@ -55,7 +57,7 @@
 
 ---
 
-## 🎯 Metas para 2025
+## 🎯 Metas para concluir
 
 - ✅ Finalizar os projetos ativos em 2025
 - 📱 Criar o primeiro app mobile baseado no AMC
@@ -84,15 +86,6 @@
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
-
----
-
-## 💻 Meu ambiente de trabalho
-
-- Sistema Operacional: Windows 11 + WSL2
-- Editor: Visual Studio 2022 + VS Code
-- Terminal: Windows Terminal com PowerShell
-- Outras ferramentas: Git, GitHub Desktop, Docker Desktop
 
 ---
 
