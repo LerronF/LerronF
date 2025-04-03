@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:000000&height=160&section=header&text=Lerron%20Felipe&fontAlign=center&fontSize=45&fontColor=ffffff" alt="Banner" />
 </p>
@@ -13,12 +12,23 @@
 
 ---
 
+## 🎓 Formação Acadêmica
+
+- 🎓 **Bacharel em Ciência da Computação**
+- 🎓 **Pós-graduação em Gestão e Governança de TI**
+- 📚 **Graduando em Direito** – conclusão prevista: 2026
+
+---
+
 ## 📜 Certificações e Cursos
 
 <p>
-  <img src="https://img.shields.io/badge/Coursera-SQL%20for%20Data%20Science-2A73CC?style=flat-square&logo=coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Desenvolvedor%20.NET-0078D7?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udemy-Arquitetura%20Limpa%20em%20.NET-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Design%20Patterns%20com%20C%23-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Docker%20essencial%20para%20.NET-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alura-GitLab%20e%20Docker%20CI%2FCD-0080FF?style=flat-square&logo=alura&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Python%20p%2F%20Data%20Science%20e%20ML-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Selenium%20Java%20Automation-EC5252?style=flat-square&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Formação%20Node.js-EC5252?style=flat-square&logo=udemy&logoColor=white" />
 </p>
 
 ## 📌 Destaques
@@ -47,7 +57,7 @@
 
 ## 🎯 Metas para 2025
 
-- ✅ Finalizar os projetos de desenvolvimento ativos em 2025
+- ✅ Finalizar os projetos ativos em 2025
 - 📱 Criar o primeiro app mobile baseado no AMC
 - 🎓 Concluir a faculdade de Direito e iniciar a OAB
 - ✝️ Lançar uma plataforma para igrejas e ministérios
@@ -133,3 +143,4 @@
   <em>“O mundo precisa de programadores que conhecem código...<br>
 e conhecem a Verdade.” ✝️</em>
 </p>
+
