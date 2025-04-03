@@ -1,10 +1,8 @@
-<h1 align="center">👋 Olá! Eu sou o Lerron Felipe</h1>
+## 👋 Olá! Eu sou o Lerron Felipe
 
-<p align="center">
-  💻 Desenvolvedor C# fullstack com foco em aplicações desktop, web e arquitetura distribuída.<br />
-  🎯 Líder de equipe, apaixonado por sistemas escaláveis e integração de serviços.<br />
-  🎙️ Apresentador do <strong>Impacto Missionário</strong> | ✝️ Cristão ativo | 🥋 Fundador da <strong>AMC - Atletas Missionários de Cristo</strong>
-</p>
+💻 Desenvolvedor C# fullstack com foco em aplicações desktop, web e arquitetura distribuída.  
+🎯 Líder de equipe, apaixonado por sistemas escaláveis e integração de serviços.  
+🎙️ Apresentador do **Impacto Missionário** | ✝️ Cristão ativo | 🥋 Fundador da **AMC - Atletas Missionários de Cristo**
 
 ---
 
@@ -36,19 +34,33 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LerronF&show_icons=true&theme=dracula&count_private=true&cache_seconds=60" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LerronF&layout=compact&theme=dracula&cache_seconds=60" />
+  <img height="180em" src="https://github-readme-streak-stats-lerronfelipes.vercel.app/?user=LerronF&theme=dracula&cache_seconds=60" />
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌈 Gráfico de atividade
+
+[![Lerron's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LerronF&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐉 Cobra de contribuições (Snake)
+
+![Snake animation](https://github.com/LerronF/LerronF/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🔗 Conecte-se comigo
 
 - 💼 [LinkedIn](https://linkedin.com/in/lerronfelipe)
-- 🎙️ [@lerron no Instagram](https://instagram.com/lerron)
-- 🥋 [@atletasmissionariosdecristo no Instagram](https://instagram.com/atletasmissionariosdecristo)
+- 🎹 [@lerron no Instagram](https://instagram.com/lerron)
+- 🏋️ [@atletasmissionariosdecristo no Instagram](https://instagram.com/atletasmissionariosdecristo)
 
 ---
 
 <p align="center">
   <em>“O mundo precisa de programadores que conhecem código...<br>
-  e conhecem a Verdade.” ✝️</em>
+e conhecem a Verdade.” ✝️</em>
 </p>
+
