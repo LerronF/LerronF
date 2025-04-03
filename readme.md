@@ -33,7 +33,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LerronF&show_icons=true&theme=dracula&count_private=true&cache_seconds=60" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LerronF&layout=compact&theme=dracula&cache_seconds=60" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=LerronF&theme=dracula&cache_seconds=60" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=LerronF&type=svg&theme=dracula&cache_seconds=60" />
 </p>
 
 ---
