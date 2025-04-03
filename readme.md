@@ -34,13 +34,8 @@
   <img src="https://img.shields.io/badge/Udemy-APIs%20REST%20com%20.NET%20e%20JWT-EC5252?style=flat-square&logo=udemy&logoColor=white" />
   <img src="https://img.shields.io/badge/DIO-Criando%20APIs%20com%20.NET%20Core-FF4088?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white" />
 </p>
-  <img src="https://img.shields.io/badge/Udemy-Design%20Patterns%20com%20C%23-EC5252?style=flat-square&logo=udemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udemy-Docker%20essencial%20para%20.NET-EC5252?style=flat-square&logo=udemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alura-GitLab%20e%20Docker%20CI%2FCD-0080FF?style=flat-square&logo=alura&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udemy-Python%20p%2F%20Data%20Science%20e%20ML-EC5252?style=flat-square&logo=udemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udemy-Selenium%20Java%20Automation-EC5252?style=flat-square&logo=udemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udemy-Formação%20Node.js-EC5252?style=flat-square&logo=udemy&logoColor=white" />
-</p>
+
+---
 
 ## 📌 Destaques
 
@@ -136,4 +131,3 @@
   <em>“O mundo precisa de programadores que conhecem código...<br>
 e conhecem a Verdade.” ✝️</em>
 </p>
-
