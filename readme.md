@@ -10,16 +10,15 @@ Trabalho com .NET 8, SQL Server, RabbitMQ, DevExpress, Angular e muito mais.
 
 ## 📈 Estatísticas do GitHub
 
-![Lerron GitHub Stats](https://github-readme-stats.vercel.app/api?username=lerronfelipe&show_icons=true&count_private=true&hide_title=false&hide_rank=false&theme=dracula)
+![Lerron GitHub Stats](https://github-readme-stats.vercel.app/api?username=lerronf&show_icons=true&count_private=true&hide_title=false&hide_rank=false&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerronfelipe&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerronf&layout=compact&theme=dracula)
 
 ---
 
 ## 🌐 Onde me encontrar
 
 - 💼 [LinkedIn](https://linkedin.com/in/lerronfelipe)
-- 🎙️ [@podcravado](https://instagram.com/podcravado)
 - 🥋 [@atletasmissionariosdecristo](https://instagram.com/atletasmissionariosdecristo)
 
 ---
