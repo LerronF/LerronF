@@ -1,14 +1,14 @@
 <h1 align="center">👋 Olá! Eu sou o Lerron Felipe</h1>
 
 <p align="center">
-  💻 Desenvolvedor C# fullstack com foco em arquitetura distribuída, aplicações desktop e web. <br />
-  🎯 Apaixonado por boas práticas, sistemas escaláveis e projetos com propósito. <br />
+  💻 Desenvolvedor C# fullstack com foco em aplicações desktop, web e arquitetura distribuída.<br />
+  🎯 Líder de equipe, apaixonado por sistemas escaláveis e integração de serviços.<br />
   🎙️ Apresentador do <strong>Impacto Missionário</strong> | ✝️ Cristão ativo | 🥋 Fundador da <strong>AMC - Atletas Missionários de Cristo</strong>
 </p>
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia
+## 🚀 Tecnologias que utilizo
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -25,13 +25,14 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
 ---
 
-## 📈 Minhas estatísticas no GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lerronf&show_icons=true&theme=dracula&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerronf&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LerronF&show_icons=true&theme=dracula&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LerronF&layout=compact&theme=dracula" />
 </p>
 
 ---
@@ -39,8 +40,8 @@
 ## 🌐 Conecte-se comigo
 
 - 💼 [LinkedIn](https://linkedin.com/in/lerronfelipe)
-- 🎙️ [Instagram - @podcravado](https://instagram.com/podcravado)
-- 🥋 [Instagram - @atletasmissionariosdecristo](https://instagram.com/atletasmissionariosdecristo)
+- 🎙️ [@lerron no Instagram](https://instagram.com/lerron)
+- 🥋 [@atletasmissionariosdecristo no Instagram](https://instagram.com/atletasmissionariosdecristo)
 
 ---
 
