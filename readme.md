@@ -41,7 +41,7 @@
 
 ---
 
-## 📈 GitHub Metrics
+## 📈 Métricas do GitHub
 
 <p align="center">
   <img src="https://github.com/LerronF/LerronF/blob/main/metrics.svg" alt="Metrics" />
