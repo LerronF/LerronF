@@ -1,4 +1,4 @@
-🔄 This README is also available in [English](./README.en.md)
+🔄 This README is also available in [English](./readme.en.md)
 
 
 ## 👋 Olá! Eu sou o Lerron Felipe
