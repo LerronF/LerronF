@@ -65,17 +65,20 @@ Projetos que desenvolvo na **DevTime Sistemas** — repositórios privados, demo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,js,ts,html,css,angular,vue,python,java,kotlin,androidstudio&perline=14" alt="Linguagens e frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,rabbitmq,githubactions,git,github,vscode,visualstudio,idea&perline=14" alt="Banco de dados e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,rabbitmq,githubactions,jenkins,git,github,vscode,visualstudio,idea&perline=14" alt="Banco de dados e ferramentas" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/DevExpress-FF6C37?style=flat-square" />
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Ocelot%20Gateway-5C2D91?style=flat-square" />
+  <img src="https://img.shields.io/badge/xUnit%20%C2%B7%20NUnit-25A162?style=flat-square" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
@@ -84,11 +87,36 @@ Projetos que desenvolvo na **DevTime Sistemas** — repositórios privados, demo
 
 ---
 
-## 📌 Na carreira
+## 🏭 Na carreira: sistemas para a indústria
 
+Sou **Desenvolvedor Fullstack Sênior II** e trabalho com **MES de chão de fábrica**: apontamento de produção,
+indicadores como OEE, integração com ERP e acompanhamento pelo celular, incluindo a modernização de um sistema
+legado sem parar a operação.
+
+- 🖥️ **Desktop e serviços** — C# com WinForms + DevExpress, serviços Windows com Quartz, relatórios com ActiveReports
+- 🌐 **APIs e web** — ASP.NET Core (REST, OAuth, Swagger, Razor), ASP.NET Web API, WCF e front em Angular
+- 🗄️ **Dados** — SQL Server (Change Tracking, T-SQL, LocalDB), Oracle, Dapper, Entity Framework e EF Core
+- 📡 **Sincronização offline-first** — RabbitMQ com outbox, idempotência, retry e dead-letter, para a fábrica não parar
+  quando a rede cai
+- 🧹 **Legado ao moderno** — do .NET Framework 4.5 ao .NET 9, com migrações de banco centralizadas
+- 🛡️ **Qualidade** — testes de arquitetura, NUnit, xUnit, Moq, Selenium; CI com Jenkins + Docker e merge request no GitLab
 - 🔐 **SSO Gateway com Ocelot + .NET 8** — autenticação centralizada e roteamento de serviços via API Gateway
-- 🏭 **Replicação de dados (SFM)** — cópia entre bancos com validação via **RabbitMQ** e workers em paralelo
-- 👥 **Líder de equipe** — condução do time e das entregas
+- 👥 **Líder técnico** — revisão de mudanças críticas e condução do time
+
+---
+
+## 💼 Por que me contratar como dev ou tech lead?
+
+- **Sistemas que sustentam operação real** — linha de produção, frota na estrada, ação social sem internet: eu
+  desenho para o dia em que a rede cai
+- **Do legado ao moderno sem parar o negócio** — de .NET Framework 4.5 a .NET 10, migrando aos poucos, com o mesmo
+  banco em produção
+- **Arquitetura que se defende sozinha** — regra importante vira teste automatizado, não só documento
+- **Ponta a ponta** — banco, API, desktop, web, PWA, app Android, CI/CD e deploy
+- **Processo de time maduro** — staging antes da produção, revisão, changelog e release notes a cada entrega
+- **IA com responsabilidade** — uso o Claude Code no desenvolvimento e a API do Claude nos produtos, sempre com fonte
+  e revisão humana
+- **Direito + tecnologia** — bacharel em Direito, aplico LGPD e regras de consumo desde o primeiro desenho do produto
 
 ---
 

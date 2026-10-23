@@ -64,17 +64,20 @@ Products I develop at **DevTime Sistemas** — private repositories, demo on req
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,js,ts,html,css,angular,vue,python,java,kotlin,androidstudio&perline=14" alt="Languages and frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,rabbitmq,githubactions,git,github,vscode,visualstudio,idea&perline=14" alt="Databases and tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,rabbitmq,githubactions,jenkins,git,github,vscode,visualstudio,idea&perline=14" alt="Databases and tools" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/DevExpress-FF6C37?style=flat-square" />
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Ocelot%20Gateway-5C2D91?style=flat-square" />
+  <img src="https://img.shields.io/badge/xUnit%20%C2%B7%20NUnit-25A162?style=flat-square" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
@@ -83,11 +86,34 @@ Products I develop at **DevTime Sistemas** — private repositories, demo on req
 
 ---
 
-## 📌 Career highlights
+## 🏭 Career: software for manufacturing
 
+I'm a **Senior Fullstack Developer II** working on **shop floor MES** systems: production tracking, KPIs such as OEE,
+ERP integration and mobile dashboards, including modernizing a legacy system without stopping operations.
+
+- 🖥️ **Desktop and services** — C# with WinForms + DevExpress, Windows services with Quartz, ActiveReports reporting
+- 🌐 **APIs and web** — ASP.NET Core (REST, OAuth, Swagger, Razor), ASP.NET Web API, WCF and Angular front ends
+- 🗄️ **Data** — SQL Server (Change Tracking, T-SQL, LocalDB), Oracle, Dapper, Entity Framework and EF Core
+- 📡 **Offline-first sync** — RabbitMQ with outbox, idempotency, retry and dead-letter, so the factory keeps running
+  when the network goes down
+- 🧹 **Legacy to modern** — from .NET Framework 4.5 to .NET 9, with centralized database migrations
+- 🛡️ **Quality** — architecture tests, NUnit, xUnit, Moq, Selenium; CI with Jenkins + Docker and GitLab merge requests
 - 🔐 **SSO Gateway with Ocelot + .NET 8** — centralized authentication and service routing through an API Gateway
-- 🏭 **Data replication (SFM)** — copying data between databases with **RabbitMQ** validation and parallel workers
-- 👥 **Team lead** — leading the team and its deliveries
+- 👥 **Tech lead** — reviewing critical changes and leading the team
+
+---
+
+## 💼 Why hire me as a developer or tech lead?
+
+- **Systems that run real operations** — a production line, a fleet on the road, a social outreach with no internet:
+  I design for the day the network goes down
+- **From legacy to modern without stopping the business** — from .NET Framework 4.5 to .NET 10, migrating step by
+  step on the same production database
+- **Architecture that defends itself** — important rules become automated tests, not just documents
+- **End to end** — database, API, desktop, web, PWA, Android app, CI/CD and deployment
+- **Mature team process** — staging before production, code review, changelog and release notes on every delivery
+- **Responsible AI** — Claude Code in development and the Claude API in products, always with sources and human review
+- **Law + technology** — with a Law degree, I apply data protection (LGPD) and consumer rules from the first design
 
 ---
 
