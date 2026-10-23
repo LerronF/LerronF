@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0B1220&height=170&section=header&text=Lerron%20Felipe&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Fullstack%20Developer%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20AI-Driven%20Development&descAlignY=60&descSize=16" alt="Lerron Felipe — Fullstack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0B1220&height=170&section=header&text=Lerron%20Felipe&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Fullstack%20Developer%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20Generative%20AI%20Engineering&descAlignY=60&descSize=16" alt="Lerron Felipe — Fullstack Developer" />
 </p>
 
 <p align="center">
