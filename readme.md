@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0B1220&height=170&section=header&text=Lerron%20Felipe&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Desenvolvedor%20Fullstack%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20IA&descAlignY=60&descSize=16" alt="Lerron Felipe — Desenvolvedor Fullstack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0B1220&height=170&section=header&text=Lerron%20Felipe&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Desenvolvedor%20Fullstack%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20Desenvolvimento%20com%20IA&descAlignY=60&descSize=16" alt="Lerron Felipe — Desenvolvedor Fullstack" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ## 👋 Sobre mim
 
 Sou **Desenvolvedor Fullstack Sênior II** em Manaus, com **19 anos de experiência** em desenvolvimento de software
-(desde os 20) e passagem como **líder de uma equipe de 7 pessoas**. Minha base é **C# / .NET** e **SQL Server**, do
+(desde os 20) e experiência como **líder de equipe**. Minha base é **C# / .NET** e **SQL Server**, do
 .NET Framework 4.5 ao .NET 10, e hoje também entrego em **Node.js, PostgreSQL e PWAs**. Já construí sistemas
 **desktop, web, mobile e serviços** para chão de fábrica, logística, educação e finanças — com integração por filas
 (**RabbitMQ**), sincronização offline e IA aplicada.
@@ -27,7 +27,7 @@ Actions, staging e produção separados** e **IA** tanto dentro dos produtos qua
 
 ```yaml
 lerron:
-  experiencia: "19 anos · Sênior II · liderou equipe de 7 pessoas"
+  experiencia: "19 anos · Sênior II · líder de equipe"
   foco:        [C#/.NET, SQL Server, RabbitMQ, Node.js, PostgreSQL, arquitetura distribuída]
   construo:    [APIs, desktop, web apps, PWAs offline-first, serviços Windows, integrações com ERP]
   extra:       "Bacharel em Direito ⚖️ · rádio 🎙️ · fé e esporte 🥋"
@@ -121,7 +121,7 @@ PWA offline-first** com Service Worker, Web Push e WhatsApp Cloud API; deploy em
 
 - **19 anos entregando software que roda em operação real** — chão de fábrica, frota na estrada, ação social sem
   internet, pagamentos por Pix. Sei o que acontece quando o sistema para, e projeto para ele não parar
-- **Já liderei uma equipe de 7 pessoas** — divisão do trabalho, revisão de código, padrões do time e a palavra final
+- **Já liderei equipe** — divisão do trabalho, revisão de código, padrões do time e a palavra final
   nas mudanças críticas de arquitetura
 - **Resolvo problema difícil de sistema distribuído** — consistência entre bancos sem perder nem duplicar dado
   (outbox, idempotência, dead-letter, reprocessamento), serviço que se recupera sozinho, integração com ERP

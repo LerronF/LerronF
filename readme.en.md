@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0B1220&height=170&section=header&text=Lerron%20Felipe&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Fullstack%20Developer%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20AI&descAlignY=60&descSize=16" alt="Lerron Felipe — Fullstack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0B1220&height=170&section=header&text=Lerron%20Felipe&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Fullstack%20Developer%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20AI-Driven%20Development&descAlignY=60&descSize=16" alt="Lerron Felipe — Fullstack Developer" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ## 👋 About me
 
 I'm a **Senior Fullstack Developer II** from Manaus, Brazil, with **19 years of experience** in software development
-(since I was 20) and experience as **lead of a 7-person team**. My foundation is **C# / .NET** and **SQL Server**, from
+(since I was 20) and experience as a **team lead**. My foundation is **C# / .NET** and **SQL Server**, from
 .NET Framework 4.5 to .NET 10, and today I also ship with **Node.js, PostgreSQL and PWAs**. I have built **desktop,
 web, mobile and background-service** systems for manufacturing, logistics, education and finance — with queue-based
 integration (**RabbitMQ**), offline sync and applied AI.
@@ -27,7 +27,7 @@ staging and production** and **AI** both inside the products and in the way I bu
 
 ```yaml
 lerron:
-  experience: "19 years · Senior II · led a 7-person team"
+  experience: "19 years · Senior II · team lead"
   focus:      [C#/.NET, SQL Server, RabbitMQ, Node.js, PostgreSQL, distributed architecture]
   builds:     [APIs, desktop, web apps, offline-first PWAs, Windows services, ERP integrations]
   extra:      "Law graduate ⚖️ · radio host 🎙️ · faith and sports 🥋"
@@ -122,7 +122,7 @@ PDF generation with QuestPDF, the **Claude API** with JSON-validated output, a *
 
 - **19 years shipping software that runs real operations** — factory floors, fleets on the road, offline social
   outreach, Pix payments. I know what happens when a system stops, and I design so it doesn't
-- **I have led a 7-person team** — splitting the work, code review, team standards and the final call on critical
+- **I have led teams** — splitting the work, code review, team standards and the final call on critical
   architecture changes
 - **I solve hard distributed-systems problems** — consistency across databases without losing or duplicating data
   (outbox, idempotency, dead-letter, reprocessing), self-healing services, ERP integration
