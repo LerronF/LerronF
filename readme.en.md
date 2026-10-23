@@ -16,27 +16,28 @@
 
 ## 👋 About me
 
-I'm a **fullstack developer** from Manaus, Brazil, with a solid background in **C# / .NET** and **SQL Server** and a
-growing focus on **Node.js, PostgreSQL and PWAs**. I build **desktop, web and mobile** systems — from ERPs and
-queue-based integrations (**RabbitMQ**) to apps that keep working **offline** on the phone of someone on the road. I have
-experience as a **team lead**, and I love turning real people's everyday problems into software that is simple to use.
+I'm a **Senior Fullstack Developer II** from Manaus, Brazil, with **19 years of experience** in software development
+(since I was 20) and experience as **lead of a 7-person team**. My foundation is **C# / .NET** and **SQL Server**, from
+.NET Framework 4.5 to .NET 10, and today I also ship with **Node.js, PostgreSQL and PWAs**. I have built **desktop,
+web, mobile and background-service** systems for manufacturing, logistics, education and finance — with queue-based
+integration (**RabbitMQ**), offline sync and applied AI.
 
-Today I run the products of **DevTime Sistemas** with an end-to-end professional workflow: **automated tests, CI on
-GitHub Actions, staging and production environments**, and **AI** both inside the products and in the way I build them.
+In my own products I keep an end-to-end professional workflow: **automated tests, CI on GitHub Actions, separate
+staging and production** and **AI** both inside the products and in the way I build them.
 
 ```yaml
 lerron:
-  focus:   [C#/.NET, Node.js, SQL Server, PostgreSQL, distributed architecture]
-  builds:  [APIs, desktop systems, web apps, offline-first PWAs, integrations]
-  now:     "DevTime Sistemas products in production — with AI at the core"
-  extra:   "Law graduate ⚖️ · radio host 🎙️ · faith and sports 🥋"
+  experience: "19 years · Senior II · led a 7-person team"
+  focus:      [C#/.NET, SQL Server, RabbitMQ, Node.js, PostgreSQL, distributed architecture]
+  builds:     [APIs, desktop, web apps, offline-first PWAs, Windows services, ERP integrations]
+  extra:      "Law graduate ⚖️ · radio host 🎙️ · faith and sports 🥋"
 ```
 
 ---
 
 ## 🛠️ What I'm building now (2026)
 
-Products I develop at **DevTime Sistemas** — private repositories, demo on request.
+My own products — private repositories, demo on request.
 
 | Project | What it solves | Technical highlights |
 |---|---|---|
@@ -86,34 +87,55 @@ Products I develop at **DevTime Sistemas** — private repositories, demo on req
 
 ---
 
-## 🏭 Career: software for manufacturing
+## 🏭 Technical experience
 
-I'm a **Senior Fullstack Developer II** working on **shop floor MES** systems: production tracking, KPIs such as OEE,
-ERP integration and mobile dashboards, including modernizing a legacy system without stopping operations.
+**Shop floor MES (manufacturing)** — production tracking, OEE, alarms, ERP integration and a mobile dashboard for
+managers, on a platform that replaces a legacy system while keeping the same database and business rules.
 
-- 🖥️ **Desktop and services** — C# with WinForms + DevExpress, Windows services with Quartz, ActiveReports reporting
-- 🌐 **APIs and web** — ASP.NET Core (REST, OAuth, Swagger, Razor), ASP.NET Web API, WCF and Angular front ends
-- 🗄️ **Data** — SQL Server (Change Tracking, T-SQL, LocalDB), Oracle, Dapper, Entity Framework and EF Core
-- 📡 **Offline-first sync** — RabbitMQ with outbox, idempotency, retry and dead-letter, so the factory keeps running
-  when the network goes down
-- 🧹 **Legacy to modern** — from .NET Framework 4.5 to .NET 9, with centralized database migrations
-- 🛡️ **Quality** — architecture tests, NUnit, xUnit, Moq, Selenium; CI with Jenkins + Docker and GitLab merge requests
-- 🔐 **SSO Gateway with Ocelot + .NET 8** — centralized authentication and service routing through an API Gateway
-- 👥 **Tech lead** — reviewing critical changes and leading the team
+- **Offline-first sync between databases** — each production line runs on a local SQL Server Express; changes are
+  captured with **Change Tracking**, published to **RabbitMQ** (direct exchange, one queue per source) through a
+  **transactional outbox** with **SHA-256 idempotency keys**, consumed with **retry and a dead-letter queue** and merged
+  into the central database, in both directions
+- **Resilient Windows services** — supervisor with **heartbeat**, automatic restart and **circuit breaker**; scheduled
+  jobs with **Quartz**; logging with Serilog and log4net
+- **Multi-target .NET monorepo** — a single solution and build for **WinForms + DevExpress** desktop, **ASP.NET Core**
+  (REST, OAuth, Swagger, Razor), services, integration and **Inno Setup** installers, mixing .NET Framework 4.5/4.8 and
+  .NET 6/8/9
+- **Legacy modernization** — porting rules from **EF6 / ASP.NET Web API / WCF / AngularJS** to new APIs, data access
+  with **Dapper and EF Core**, all DDL versioned in a single migrations project and a warning-free build
+- **Architecture guarded by tests** — architecture tests (single solution, module boundaries, no credentials in code),
+  **NUnit, xUnit, Moq, coverlet, Selenium** and **LocalDB** database tests
+- **CI/CD** — **Jenkins** pipeline building **Docker** images, HTTPS with certificates and health checks; GitLab merge
+  requests with staging and production branches
+- **SSO Gateway with Ocelot + .NET 8** — centralized authentication and microservice routing through an API Gateway
+
+**My own products in production** — .NET 10 + **Blazor Interactive Server**, **PostgreSQL/EF Core** with pgvector, a
+table-based job queue with `FOR UPDATE SKIP LOCKED`, **Testcontainers**, **AES-256** encryption of personal data, CSP,
+rate limiting and login lockout (LGPD), **Pix through the bank API with mTLS and webhooks**, S3 storage (Cloudflare R2),
+PDF generation with QuestPDF, the **Claude API** with JSON-validated output, a **.NET MAUI** Android app; in Node.js,
+**Express 5 + offline-first PWAs** with Service Workers, Web Push and the WhatsApp Cloud API; deployed with
+**Docker + Railway** and a staging environment.
 
 ---
 
 ## 💼 Why hire me as a developer or tech lead?
 
-- **Systems that run real operations** — a production line, a fleet on the road, a social outreach with no internet:
-  I design for the day the network goes down
-- **From legacy to modern without stopping the business** — from .NET Framework 4.5 to .NET 10, migrating step by
-  step on the same production database
-- **Architecture that defends itself** — important rules become automated tests, not just documents
-- **End to end** — database, API, desktop, web, PWA, Android app, CI/CD and deployment
-- **Mature team process** — staging before production, code review, changelog and release notes on every delivery
-- **Responsible AI** — Claude Code in development and the Claude API in products, always with sources and human review
-- **Law + technology** — with a Law degree, I apply data protection (LGPD) and consumer rules from the first design
+- **19 years shipping software that runs real operations** — factory floors, fleets on the road, offline social
+  outreach, Pix payments. I know what happens when a system stops, and I design so it doesn't
+- **I have led a 7-person team** — splitting the work, code review, team standards and the final call on critical
+  architecture changes
+- **I solve hard distributed-systems problems** — consistency across databases without losing or duplicating data
+  (outbox, idempotency, dead-letter, reprocessing), self-healing services, ERP integration
+- **I modernize legacy without a big-bang rewrite** — extracting business rules from old code into new APIs while the
+  same production database keeps running
+- **I turn rules into tests** — what matters to the team becomes an architecture or integration test that breaks the
+  build, not just a document
+- **I can deliver end to end on my own** — database modeling, API, desktop, web, PWA, Android app, CI/CD, Docker,
+  deployment and user manual
+- **Security and privacy by design** — with a Law degree: personal-data encryption, login lockout, CSP, consent records
+  and data retention are part of the plan, not an afterthought
+- **AI applied with judgment** — Claude Code in development and the Claude API in products, with validated output,
+  cited sources and human review
 
 ---
 
