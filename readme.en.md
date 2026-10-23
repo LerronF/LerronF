@@ -124,10 +124,10 @@ Products I develop at **DevTime Sistemas** — private repositories, demo on req
 
 ## 💡 Beyond code
 
+- ⛪ I'm a **pastor at IEADAM** (Assembly of God Evangelical Church in Amazonas)
 - 🎙️ I host the radio show **Impacto Missionário**
 - 🥋 I founded **AMC – Atletas Missionários de Cristo**, bringing faith and sports together
 - ⚖️ I hold a Law degree and combine law and technology to build products
-- ✝️ Active Christian
 
 ---
 

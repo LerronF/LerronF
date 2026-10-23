@@ -125,10 +125,10 @@ Projetos que desenvolvo na **DevTime Sistemas** — repositórios privados, demo
 
 ## 💡 Além do código
 
+- ⛪ Sou **pastor na IEADAM** (Igreja Evangélica Assembleia de Deus no Amazonas)
 - 🎙️ Apresento o programa de rádio **Impacto Missionário**
 - 🥋 Fundei a **AMC – Atletas Missionários de Cristo**, unindo fé e esporte
 - ⚖️ Sou bacharel em Direito e uso tecnologia e Direito juntos para criar produtos
-- ✝️ Cristão ativo
 
 ---
 
