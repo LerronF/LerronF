@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0B1220&height=170&section=header&text=Lerron%20Felipe&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Fullstack%20Developer%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20Generative%20AI%20Engineering&descAlignY=60&descSize=16" alt="Lerron Felipe — Fullstack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0B1220&height=170&section=header&text=Lerron%20Felipe&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Tech%20Lead%20%C2%B7%20Senior%20Full%20Stack%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20Generative%20AI%20Engineering&descAlignY=60&descSize=16" alt="Lerron Felipe — Tech Lead and Senior Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lerron-felipe-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/lerron-felipe/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Manaus%20--%20AM-Brazil-2EA043?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Manaus - AM, Brazil" />
   <a href="./readme.md"><img src="https://img.shields.io/badge/Ler%20em-Português-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Versão em português" /></a>
 </p>
@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-I'm a **Senior Fullstack Developer II** from Manaus, Brazil, with **19 years of experience** in software development
+I'm a **Tech Lead and Senior Fullstack Developer II** from Manaus, Brazil, with **19 years of experience** in software development
 (since I was 20) and experience as a **team lead**. My foundation is **C# / .NET** and **SQL Server**, from
 .NET Framework 4.5 to .NET 10, and today I also ship with **Node.js, PostgreSQL and PWAs**. I have built **desktop,
 web, mobile and background-service** systems for manufacturing, logistics, education and finance — with queue-based
@@ -87,6 +87,21 @@ My own products — private repositories, demo on request.
 
 ---
 
+## 🧭 Career path
+
+| Period | Role | Where | Highlights |
+|---|---|---|---|
+| 2023 – now | **Tech Lead · Senior Full Stack Developer II** | manufacturing (shop-floor MES) | C#/.NET, RabbitMQ, technical leadership — details below |
+| 2022 – 2023 | Senior Full Stack Developer | Instituto Conecthus (technology R&D) | C#, Angular, business analysis |
+| 2021 – 2022 | Senior Full Stack Developer | TecToy | C#, Angular, business analysis |
+| 2020 – 2021 | Full Stack Developer → R&D Analyst → **Business Analyst** | ITRIAD Research and Development | TypeScript, REST APIs, team and project management, process improvement |
+| 2011 – 2020 | .NET C# Developer → **Business and Software Development Analyst** | Patrimônio Tecnologia | C#, Sybase, ERP implementation, project planning |
+| 2009 – 2011 | IT Intern → Infrastructure Technician | Amazonas State University (UEA) | infrastructure and support |
+
+In parallel, **since 2013** I've been building and managing my own and clients' projects as a freelancer.
+
+---
+
 ## 🏭 Technical experience
 
 **Shop floor MES (manufacturing)** — production tracking, OEE, alarms, ERP integration and a mobile dashboard for
@@ -134,6 +149,8 @@ PDF generation with QuestPDF, the **Claude API** with JSON-validated output, a *
   deployment and user manual
 - **Security and privacy by design** — with a Law degree: personal-data encryption, login lockout, CSP, consent records
   and data retention are part of the plan, not an afterthought
+- **I understand the business side** — I've worked as a business analyst and project manager: I gather requirements
+  with real users, plan deliveries, lead teams and improve processes, not just code
 - **AI applied with judgment** — Claude Code in development and the Claude API in products, with validated output,
   cited sources and human review
 
@@ -141,23 +158,24 @@ PDF generation with QuestPDF, the **Claude API** with JSON-validated output, a *
 
 ## 🎓 Education
 
-- 🎓 **B.Sc. in Computer Science**
-- 🎓 **Postgraduate degree in IT Management and Governance**
-- ⚖️ **Bachelor of Laws** — preparing for the **Brazilian Bar Exam (OAB)** (and building the app I use for it 😄)
+- 🎓 **B.Sc. in Computer Science** — CIESA (2008–2011)
+- 🎓 **Postgraduate degree in IT Management and Governance** — Universidade Paulista (2021–2022)
+- ⚖️ **Bachelor of Laws** — Faculdade Boas Novas (2022–2026) · preparing for the **Brazilian Bar Exam (OAB)** (and
+  building the app I use for it 😄)
 
 <details>
 <summary>📜 <b>Certifications and courses</b> (click to expand)</summary>
 <br/>
 
-- Design Patterns with C# — Udemy
-- Docker essentials for .NET — Udemy
+- Design Patterns with C# — Udemy (2021)
+- Docker essentials for .NET — Udemy (2021)
 - RabbitMQ with .NET 8 — Udemy
 - REST APIs with .NET and JWT — Udemy
 - Entity Framework Core Essentials — Udemy
-- Node.js training — Udemy
-- Python for Data Science and Machine Learning — Udemy
-- Selenium with Java (test automation) — Udemy
-- GitLab and Docker: CI/CD — Alura
+- Node.js training — Udemy (2020)
+- Python for Data Science and Machine Learning — Udemy (2020)
+- Selenium with Java (test automation) — Udemy (2020)
+- GitLab and Docker: continuous delivery pipeline — Alura (2021)
 - Building APIs with .NET Core — DIO
 
 </details>
@@ -204,7 +222,7 @@ PDF generation with QuestPDF, the **Claude API** with JSON-validated output, a *
 Open to **opportunities, partnerships and projects** — especially where technology solves real people's problems.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lerron-felipe-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/lerron-felipe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/lerron"><img src="https://img.shields.io/badge/@lerron-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @lerron" /></a>
   <a href="https://instagram.com/atletasmissionariosdecristo"><img src="https://img.shields.io/badge/AMC-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram AMC" /></a>
   <img src="https://komarev.com/ghpvc/?username=LerronF&label=views&color=8B7CF6&style=for-the-badge" alt="Profile views" />

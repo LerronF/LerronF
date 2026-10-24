@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0B1220&height=170&section=header&text=Lerron%20Felipe&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Fullstack%20Developer%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20Generative%20AI%20Engineering&descAlignY=60&descSize=16" alt="Lerron Felipe — Desenvolvedor Fullstack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0B1220&height=170&section=header&text=Lerron%20Felipe&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Tech%20Lead%20%C2%B7%20Senior%20Full%20Stack%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20Generative%20AI%20Engineering&descAlignY=60&descSize=16" alt="Lerron Felipe — Tech Lead e Desenvolvedor Fullstack Sênior" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lerron-felipe-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/lerron-felipe/"><img src="https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Manaus%20--%20AM-Brasil-2EA043?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Manaus - AM" />
   <a href="./readme.en.md"><img src="https://img.shields.io/badge/Read%20in-English-007ACC?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English version" /></a>
 </p>
@@ -16,7 +16,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Desenvolvedor Fullstack Sênior II** em Manaus, com **19 anos de experiência** em desenvolvimento de software
+Sou **Tech Lead e Desenvolvedor Fullstack Sênior II** em Manaus, com **19 anos de experiência** em desenvolvimento de software
 (desde os 20) e experiência como **líder de equipe**. Minha base é **C# / .NET** e **SQL Server**, do
 .NET Framework 4.5 ao .NET 10, e hoje também entrego em **Node.js, PostgreSQL e PWAs**. Já construí sistemas
 **desktop, web, mobile e serviços** para chão de fábrica, logística, educação e finanças — com integração por filas
@@ -87,6 +87,21 @@ Projetos próprios — repositórios privados, demonstração sob pedido.
 
 ---
 
+## 🧭 Trajetória
+
+| Período | Função | Onde | Destaques |
+|---|---|---|---|
+| 2023 – hoje | **Tech Lead · Desenvolvedor Fullstack Sênior II** | indústria (MES de chão de fábrica) | C#/.NET, RabbitMQ, liderança técnica — detalhes abaixo |
+| 2022 – 2023 | Desenvolvedor Fullstack Sênior | Instituto Conecthus (P&D em tecnologia) | C#, Angular, análise de negócios |
+| 2021 – 2022 | Desenvolvedor Fullstack Sênior | TecToy | C#, Angular, análise de negócios |
+| 2020 – 2021 | Desenvolvedor Fullstack → Analista de P&D → **Analista de Negócios** | ITRIAD Pesquisa e Desenvolvimento | TypeScript, APIs REST, gestão de equipe e de projetos, melhoria de processos |
+| 2011 – 2020 | Desenvolvedor .NET C# → **Analista de Negócios e de Desenvolvimento** | Patrimônio Tecnologia | C#, Sybase, implantação de ERP, planejamento de projetos |
+| 2009 – 2011 | Estagiário de TI → Técnico de infraestrutura | Universidade do Estado do Amazonas (UEA) | infraestrutura e suporte |
+
+Em paralelo, **desde 2013** desenvolvo e gerencio projetos próprios e de clientes como freelancer.
+
+---
+
 ## 🏭 Experiência técnica
 
 **MES de chão de fábrica (indústria)** — apontamento de produção, OEE, alarmes, integração com ERP e painel mobile para
@@ -133,6 +148,8 @@ PWA offline-first** com Service Worker, Web Push e WhatsApp Cloud API; deploy em
   Docker, deploy e manual do usuário
 - **Segurança e LGPD desde o desenho** — bacharel em Direito: cifra de dados pessoais, bloqueio de login, CSP,
   registro de aceite e retenção de dados entram no plano, não no fim
+- **Entendo o lado do negócio** — fui analista de negócios e gerente de projetos: levanto requisitos com quem usa,
+  planejo entregas, conduzo equipe e melhoro processos, não só código
 - **IA aplicada com critério** — uso o Claude Code no desenvolvimento e a API do Claude em produto, com saída validada,
   fonte citada e revisão humana
 
@@ -140,23 +157,24 @@ PWA offline-first** com Service Worker, Web Push e WhatsApp Cloud API; deploy em
 
 ## 🎓 Formação
 
-- 🎓 **Bacharel em Ciência da Computação**
-- 🎓 **Pós-graduação em Gestão e Governança de TI**
-- ⚖️ **Bacharel em Direito** — estudando para a **OAB** (e construindo o app que uso para isso 😄)
+- 🎓 **Bacharel em Ciência da Computação** — CIESA (2008–2011)
+- 🎓 **Pós-graduação em Gestão e Governança de TI** — Universidade Paulista (2021–2022)
+- ⚖️ **Bacharel em Direito** — Faculdade Boas Novas (2022–2026) · estudando para a **OAB** (e construindo o app que uso
+  para isso 😄)
 
 <details>
 <summary>📜 <b>Certificações e cursos</b> (clique para ver)</summary>
 <br/>
 
-- Design Patterns com C# — Udemy
-- Docker essencial para .NET — Udemy
+- Design Patterns com C# — Udemy (2021)
+- Docker essencial para .NET — Udemy (2021)
 - RabbitMQ com .NET 8 — Udemy
 - APIs REST com .NET e JWT — Udemy
 - Entity Framework Core Essentials — Udemy
-- Formação Node.js — Udemy
-- Python para Data Science e Machine Learning — Udemy
-- Selenium com Java (automação de testes) — Udemy
-- GitLab e Docker: CI/CD — Alura
+- Formação Node.js — Udemy (2020)
+- Python para Data Science e Machine Learning — Udemy (2020)
+- Selenium com Java (automação de testes) — Udemy (2020)
+- GitLab e Docker: pipeline de entrega contínua — Alura (2021)
 - Criando APIs com .NET Core — DIO
 
 </details>
@@ -203,7 +221,7 @@ PWA offline-first** com Service Worker, Web Push e WhatsApp Cloud API; deploy em
 Aberto a **oportunidades, parcerias e projetos** — especialmente onde tecnologia resolve problemas de gente de verdade.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lerron-felipe-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/lerron-felipe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/lerron"><img src="https://img.shields.io/badge/@lerron-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @lerron" /></a>
   <a href="https://instagram.com/atletasmissionariosdecristo"><img src="https://img.shields.io/badge/AMC-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram AMC" /></a>
   <img src="https://komarev.com/ghpvc/?username=LerronF&label=visitas&color=8B7CF6&style=for-the-badge" alt="Visitas" />
